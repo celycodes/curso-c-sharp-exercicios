@@ -1,0 +1,13 @@
+E:\C#\ws - csharp\conditionalStructure\conditionalStructure\bin\Debug\netcoreapp3.1\conditionalStructure.exe
+E:\C#\ws - csharp\conditionalStructure\conditionalStructure\bin\Debug\netcoreapp3.1\conditionalStructure.deps.json
+E:\C#\ws - csharp\conditionalStructure\conditionalStructure\bin\Debug\netcoreapp3.1\conditionalStructure.runtimeconfig.json
+E:\C#\ws - csharp\conditionalStructure\conditionalStructure\bin\Debug\netcoreapp3.1\conditionalStructure.runtimeconfig.dev.json
+E:\C#\ws - csharp\conditionalStructure\conditionalStructure\bin\Debug\netcoreapp3.1\conditionalStructure.dll
+E:\C#\ws - csharp\conditionalStructure\conditionalStructure\bin\Debug\netcoreapp3.1\conditionalStructure.pdb
+E:\C#\ws - csharp\conditionalStructure\conditionalStructure\obj\Debug\netcoreapp3.1\conditionalStructure.csprojAssemblyReference.cache
+E:\C#\ws - csharp\conditionalStructure\conditionalStructure\obj\Debug\netcoreapp3.1\conditionalStructure.AssemblyInfoInputs.cache
+E:\C#\ws - csharp\conditionalStructure\conditionalStructure\obj\Debug\netcoreapp3.1\conditionalStructure.AssemblyInfo.cs
+E:\C#\ws - csharp\conditionalStructure\conditionalStructure\obj\Debug\netcoreapp3.1\conditionalStructure.csproj.CoreCompileInputs.cache
+E:\C#\ws - csharp\conditionalStructure\conditionalStructure\obj\Debug\netcoreapp3.1\conditionalStructure.dll
+E:\C#\ws - csharp\conditionalStructure\conditionalStructure\obj\Debug\netcoreapp3.1\conditionalStructure.pdb
+E:\C#\ws - csharp\conditionalStructure\conditionalStructure\obj\Debug\netcoreapp3.1\conditionalStructure.genruntimeconfig.cache

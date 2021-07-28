@@ -1,0 +1,13 @@
+E:\C#\ws - csharp\dataOutput\dataOutput\bin\Debug\netcoreapp3.1\dataOutput.exe
+E:\C#\ws - csharp\dataOutput\dataOutput\bin\Debug\netcoreapp3.1\dataOutput.deps.json
+E:\C#\ws - csharp\dataOutput\dataOutput\bin\Debug\netcoreapp3.1\dataOutput.runtimeconfig.json
+E:\C#\ws - csharp\dataOutput\dataOutput\bin\Debug\netcoreapp3.1\dataOutput.runtimeconfig.dev.json
+E:\C#\ws - csharp\dataOutput\dataOutput\bin\Debug\netcoreapp3.1\dataOutput.dll
+E:\C#\ws - csharp\dataOutput\dataOutput\bin\Debug\netcoreapp3.1\dataOutput.pdb
+E:\C#\ws - csharp\dataOutput\dataOutput\obj\Debug\netcoreapp3.1\dataOutput.csprojAssemblyReference.cache
+E:\C#\ws - csharp\dataOutput\dataOutput\obj\Debug\netcoreapp3.1\dataOutput.AssemblyInfoInputs.cache
+E:\C#\ws - csharp\dataOutput\dataOutput\obj\Debug\netcoreapp3.1\dataOutput.AssemblyInfo.cs
+E:\C#\ws - csharp\dataOutput\dataOutput\obj\Debug\netcoreapp3.1\dataOutput.csproj.CoreCompileInputs.cache
+E:\C#\ws - csharp\dataOutput\dataOutput\obj\Debug\netcoreapp3.1\dataOutput.dll
+E:\C#\ws - csharp\dataOutput\dataOutput\obj\Debug\netcoreapp3.1\dataOutput.pdb
+E:\C#\ws - csharp\dataOutput\dataOutput\obj\Debug\netcoreapp3.1\dataOutput.genruntimeconfig.cache

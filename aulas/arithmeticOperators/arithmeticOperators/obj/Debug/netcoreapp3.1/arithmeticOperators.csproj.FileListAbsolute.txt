@@ -1,0 +1,13 @@
+E:\C#\ws - csharp\arithmeticOperators\arithmeticOperators\bin\Debug\netcoreapp3.1\arithmeticOperators.exe
+E:\C#\ws - csharp\arithmeticOperators\arithmeticOperators\bin\Debug\netcoreapp3.1\arithmeticOperators.deps.json
+E:\C#\ws - csharp\arithmeticOperators\arithmeticOperators\bin\Debug\netcoreapp3.1\arithmeticOperators.runtimeconfig.json
+E:\C#\ws - csharp\arithmeticOperators\arithmeticOperators\bin\Debug\netcoreapp3.1\arithmeticOperators.runtimeconfig.dev.json
+E:\C#\ws - csharp\arithmeticOperators\arithmeticOperators\bin\Debug\netcoreapp3.1\arithmeticOperators.dll
+E:\C#\ws - csharp\arithmeticOperators\arithmeticOperators\bin\Debug\netcoreapp3.1\arithmeticOperators.pdb
+E:\C#\ws - csharp\arithmeticOperators\arithmeticOperators\obj\Debug\netcoreapp3.1\arithmeticOperators.csprojAssemblyReference.cache
+E:\C#\ws - csharp\arithmeticOperators\arithmeticOperators\obj\Debug\netcoreapp3.1\arithmeticOperators.AssemblyInfoInputs.cache
+E:\C#\ws - csharp\arithmeticOperators\arithmeticOperators\obj\Debug\netcoreapp3.1\arithmeticOperators.AssemblyInfo.cs
+E:\C#\ws - csharp\arithmeticOperators\arithmeticOperators\obj\Debug\netcoreapp3.1\arithmeticOperators.csproj.CoreCompileInputs.cache
+E:\C#\ws - csharp\arithmeticOperators\arithmeticOperators\obj\Debug\netcoreapp3.1\arithmeticOperators.dll
+E:\C#\ws - csharp\arithmeticOperators\arithmeticOperators\obj\Debug\netcoreapp3.1\arithmeticOperators.pdb
+E:\C#\ws - csharp\arithmeticOperators\arithmeticOperators\obj\Debug\netcoreapp3.1\arithmeticOperators.genruntimeconfig.cache

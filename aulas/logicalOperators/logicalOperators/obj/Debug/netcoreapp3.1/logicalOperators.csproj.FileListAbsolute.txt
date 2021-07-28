@@ -1,0 +1,13 @@
+E:\C#\ws - csharp\logicalOperators\logicalOperators\bin\Debug\netcoreapp3.1\logicalOperators.exe
+E:\C#\ws - csharp\logicalOperators\logicalOperators\bin\Debug\netcoreapp3.1\logicalOperators.deps.json
+E:\C#\ws - csharp\logicalOperators\logicalOperators\bin\Debug\netcoreapp3.1\logicalOperators.runtimeconfig.json
+E:\C#\ws - csharp\logicalOperators\logicalOperators\bin\Debug\netcoreapp3.1\logicalOperators.runtimeconfig.dev.json
+E:\C#\ws - csharp\logicalOperators\logicalOperators\bin\Debug\netcoreapp3.1\logicalOperators.dll
+E:\C#\ws - csharp\logicalOperators\logicalOperators\bin\Debug\netcoreapp3.1\logicalOperators.pdb
+E:\C#\ws - csharp\logicalOperators\logicalOperators\obj\Debug\netcoreapp3.1\logicalOperators.csprojAssemblyReference.cache
+E:\C#\ws - csharp\logicalOperators\logicalOperators\obj\Debug\netcoreapp3.1\logicalOperators.AssemblyInfoInputs.cache
+E:\C#\ws - csharp\logicalOperators\logicalOperators\obj\Debug\netcoreapp3.1\logicalOperators.AssemblyInfo.cs
+E:\C#\ws - csharp\logicalOperators\logicalOperators\obj\Debug\netcoreapp3.1\logicalOperators.csproj.CoreCompileInputs.cache
+E:\C#\ws - csharp\logicalOperators\logicalOperators\obj\Debug\netcoreapp3.1\logicalOperators.dll
+E:\C#\ws - csharp\logicalOperators\logicalOperators\obj\Debug\netcoreapp3.1\logicalOperators.pdb
+E:\C#\ws - csharp\logicalOperators\logicalOperators\obj\Debug\netcoreapp3.1\logicalOperators.genruntimeconfig.cache

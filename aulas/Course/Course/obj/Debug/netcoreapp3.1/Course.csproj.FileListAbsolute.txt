@@ -1,0 +1,13 @@
+E:\C#\ws - csharp\Course\Course\bin\Debug\netcoreapp3.1\Course.exe
+E:\C#\ws - csharp\Course\Course\bin\Debug\netcoreapp3.1\Course.deps.json
+E:\C#\ws - csharp\Course\Course\bin\Debug\netcoreapp3.1\Course.runtimeconfig.json
+E:\C#\ws - csharp\Course\Course\bin\Debug\netcoreapp3.1\Course.runtimeconfig.dev.json
+E:\C#\ws - csharp\Course\Course\bin\Debug\netcoreapp3.1\Course.dll
+E:\C#\ws - csharp\Course\Course\bin\Debug\netcoreapp3.1\Course.pdb
+E:\C#\ws - csharp\Course\Course\obj\Debug\netcoreapp3.1\Course.csprojAssemblyReference.cache
+E:\C#\ws - csharp\Course\Course\obj\Debug\netcoreapp3.1\Course.AssemblyInfoInputs.cache
+E:\C#\ws - csharp\Course\Course\obj\Debug\netcoreapp3.1\Course.AssemblyInfo.cs
+E:\C#\ws - csharp\Course\Course\obj\Debug\netcoreapp3.1\Course.csproj.CoreCompileInputs.cache
+E:\C#\ws - csharp\Course\Course\obj\Debug\netcoreapp3.1\Course.dll
+E:\C#\ws - csharp\Course\Course\obj\Debug\netcoreapp3.1\Course.pdb
+E:\C#\ws - csharp\Course\Course\obj\Debug\netcoreapp3.1\Course.genruntimeconfig.cache

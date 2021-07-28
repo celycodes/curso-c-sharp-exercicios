@@ -1,0 +1,13 @@
+E:\C#\ws - csharp\comparativeOperators\comparativeOperators\bin\Debug\netcoreapp3.1\comparativeOperators.exe
+E:\C#\ws - csharp\comparativeOperators\comparativeOperators\bin\Debug\netcoreapp3.1\comparativeOperators.deps.json
+E:\C#\ws - csharp\comparativeOperators\comparativeOperators\bin\Debug\netcoreapp3.1\comparativeOperators.runtimeconfig.json
+E:\C#\ws - csharp\comparativeOperators\comparativeOperators\bin\Debug\netcoreapp3.1\comparativeOperators.runtimeconfig.dev.json
+E:\C#\ws - csharp\comparativeOperators\comparativeOperators\bin\Debug\netcoreapp3.1\comparativeOperators.dll
+E:\C#\ws - csharp\comparativeOperators\comparativeOperators\bin\Debug\netcoreapp3.1\comparativeOperators.pdb
+E:\C#\ws - csharp\comparativeOperators\comparativeOperators\obj\Debug\netcoreapp3.1\comparativeOperators.csprojAssemblyReference.cache
+E:\C#\ws - csharp\comparativeOperators\comparativeOperators\obj\Debug\netcoreapp3.1\comparativeOperators.AssemblyInfoInputs.cache
+E:\C#\ws - csharp\comparativeOperators\comparativeOperators\obj\Debug\netcoreapp3.1\comparativeOperators.AssemblyInfo.cs
+E:\C#\ws - csharp\comparativeOperators\comparativeOperators\obj\Debug\netcoreapp3.1\comparativeOperators.csproj.CoreCompileInputs.cache
+E:\C#\ws - csharp\comparativeOperators\comparativeOperators\obj\Debug\netcoreapp3.1\comparativeOperators.dll
+E:\C#\ws - csharp\comparativeOperators\comparativeOperators\obj\Debug\netcoreapp3.1\comparativeOperators.pdb
+E:\C#\ws - csharp\comparativeOperators\comparativeOperators\obj\Debug\netcoreapp3.1\comparativeOperators.genruntimeconfig.cache

@@ -1,0 +1,13 @@
+E:\C#\ws - csharp\attributionOperators\attributionOperators\bin\Debug\netcoreapp3.1\attributionOperators.exe
+E:\C#\ws - csharp\attributionOperators\attributionOperators\bin\Debug\netcoreapp3.1\attributionOperators.deps.json
+E:\C#\ws - csharp\attributionOperators\attributionOperators\bin\Debug\netcoreapp3.1\attributionOperators.runtimeconfig.json
+E:\C#\ws - csharp\attributionOperators\attributionOperators\bin\Debug\netcoreapp3.1\attributionOperators.runtimeconfig.dev.json
+E:\C#\ws - csharp\attributionOperators\attributionOperators\bin\Debug\netcoreapp3.1\attributionOperators.dll
+E:\C#\ws - csharp\attributionOperators\attributionOperators\bin\Debug\netcoreapp3.1\attributionOperators.pdb
+E:\C#\ws - csharp\attributionOperators\attributionOperators\obj\Debug\netcoreapp3.1\attributionOperators.csprojAssemblyReference.cache
+E:\C#\ws - csharp\attributionOperators\attributionOperators\obj\Debug\netcoreapp3.1\attributionOperators.AssemblyInfoInputs.cache
+E:\C#\ws - csharp\attributionOperators\attributionOperators\obj\Debug\netcoreapp3.1\attributionOperators.AssemblyInfo.cs
+E:\C#\ws - csharp\attributionOperators\attributionOperators\obj\Debug\netcoreapp3.1\attributionOperators.csproj.CoreCompileInputs.cache
+E:\C#\ws - csharp\attributionOperators\attributionOperators\obj\Debug\netcoreapp3.1\attributionOperators.dll
+E:\C#\ws - csharp\attributionOperators\attributionOperators\obj\Debug\netcoreapp3.1\attributionOperators.pdb
+E:\C#\ws - csharp\attributionOperators\attributionOperators\obj\Debug\netcoreapp3.1\attributionOperators.genruntimeconfig.cache

@@ -1,0 +1,13 @@
+E:\C#\ws - csharp\repetitionStructureFor\repetitionStructureFor\bin\Debug\netcoreapp3.1\repetitionStructureFor.exe
+E:\C#\ws - csharp\repetitionStructureFor\repetitionStructureFor\bin\Debug\netcoreapp3.1\repetitionStructureFor.deps.json
+E:\C#\ws - csharp\repetitionStructureFor\repetitionStructureFor\bin\Debug\netcoreapp3.1\repetitionStructureFor.runtimeconfig.json
+E:\C#\ws - csharp\repetitionStructureFor\repetitionStructureFor\bin\Debug\netcoreapp3.1\repetitionStructureFor.runtimeconfig.dev.json
+E:\C#\ws - csharp\repetitionStructureFor\repetitionStructureFor\bin\Debug\netcoreapp3.1\repetitionStructureFor.dll
+E:\C#\ws - csharp\repetitionStructureFor\repetitionStructureFor\bin\Debug\netcoreapp3.1\repetitionStructureFor.pdb
+E:\C#\ws - csharp\repetitionStructureFor\repetitionStructureFor\obj\Debug\netcoreapp3.1\repetitionStructureFor.csprojAssemblyReference.cache
+E:\C#\ws - csharp\repetitionStructureFor\repetitionStructureFor\obj\Debug\netcoreapp3.1\repetitionStructureFor.AssemblyInfoInputs.cache
+E:\C#\ws - csharp\repetitionStructureFor\repetitionStructureFor\obj\Debug\netcoreapp3.1\repetitionStructureFor.AssemblyInfo.cs
+E:\C#\ws - csharp\repetitionStructureFor\repetitionStructureFor\obj\Debug\netcoreapp3.1\repetitionStructureFor.csproj.CoreCompileInputs.cache
+E:\C#\ws - csharp\repetitionStructureFor\repetitionStructureFor\obj\Debug\netcoreapp3.1\repetitionStructureFor.dll
+E:\C#\ws - csharp\repetitionStructureFor\repetitionStructureFor\obj\Debug\netcoreapp3.1\repetitionStructureFor.pdb
+E:\C#\ws - csharp\repetitionStructureFor\repetitionStructureFor\obj\Debug\netcoreapp3.1\repetitionStructureFor.genruntimeconfig.cache

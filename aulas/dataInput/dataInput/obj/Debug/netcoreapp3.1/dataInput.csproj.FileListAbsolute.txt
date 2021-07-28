@@ -1,0 +1,13 @@
+E:\C#\ws - csharp\dataInput\dataInput\bin\Debug\netcoreapp3.1\dataInput.exe
+E:\C#\ws - csharp\dataInput\dataInput\bin\Debug\netcoreapp3.1\dataInput.deps.json
+E:\C#\ws - csharp\dataInput\dataInput\bin\Debug\netcoreapp3.1\dataInput.runtimeconfig.json
+E:\C#\ws - csharp\dataInput\dataInput\bin\Debug\netcoreapp3.1\dataInput.runtimeconfig.dev.json
+E:\C#\ws - csharp\dataInput\dataInput\bin\Debug\netcoreapp3.1\dataInput.dll
+E:\C#\ws - csharp\dataInput\dataInput\bin\Debug\netcoreapp3.1\dataInput.pdb
+E:\C#\ws - csharp\dataInput\dataInput\obj\Debug\netcoreapp3.1\dataInput.csprojAssemblyReference.cache
+E:\C#\ws - csharp\dataInput\dataInput\obj\Debug\netcoreapp3.1\dataInput.AssemblyInfoInputs.cache
+E:\C#\ws - csharp\dataInput\dataInput\obj\Debug\netcoreapp3.1\dataInput.AssemblyInfo.cs
+E:\C#\ws - csharp\dataInput\dataInput\obj\Debug\netcoreapp3.1\dataInput.csproj.CoreCompileInputs.cache
+E:\C#\ws - csharp\dataInput\dataInput\obj\Debug\netcoreapp3.1\dataInput.dll
+E:\C#\ws - csharp\dataInput\dataInput\obj\Debug\netcoreapp3.1\dataInput.pdb
+E:\C#\ws - csharp\dataInput\dataInput\obj\Debug\netcoreapp3.1\dataInput.genruntimeconfig.cache
