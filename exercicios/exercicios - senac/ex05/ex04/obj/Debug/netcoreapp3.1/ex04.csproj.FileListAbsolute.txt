@@ -1,0 +1,26 @@
+E:\Programação para Jogos Digitais\atividades\UC03 - Trabalhos\code ativ 3\ex04\ex04\bin\Debug\netcoreapp3.1\ex04.exe
+E:\Programação para Jogos Digitais\atividades\UC03 - Trabalhos\code ativ 3\ex04\ex04\bin\Debug\netcoreapp3.1\ex04.deps.json
+E:\Programação para Jogos Digitais\atividades\UC03 - Trabalhos\code ativ 3\ex04\ex04\bin\Debug\netcoreapp3.1\ex04.runtimeconfig.json
+E:\Programação para Jogos Digitais\atividades\UC03 - Trabalhos\code ativ 3\ex04\ex04\bin\Debug\netcoreapp3.1\ex04.runtimeconfig.dev.json
+E:\Programação para Jogos Digitais\atividades\UC03 - Trabalhos\code ativ 3\ex04\ex04\bin\Debug\netcoreapp3.1\ex04.dll
+E:\Programação para Jogos Digitais\atividades\UC03 - Trabalhos\code ativ 3\ex04\ex04\bin\Debug\netcoreapp3.1\ex04.pdb
+E:\Programação para Jogos Digitais\atividades\UC03 - Trabalhos\code ativ 3\ex04\ex04\obj\Debug\netcoreapp3.1\ex04.csprojAssemblyReference.cache
+E:\Programação para Jogos Digitais\atividades\UC03 - Trabalhos\code ativ 3\ex04\ex04\obj\Debug\netcoreapp3.1\ex04.AssemblyInfoInputs.cache
+E:\Programação para Jogos Digitais\atividades\UC03 - Trabalhos\code ativ 3\ex04\ex04\obj\Debug\netcoreapp3.1\ex04.AssemblyInfo.cs
+E:\Programação para Jogos Digitais\atividades\UC03 - Trabalhos\code ativ 3\ex04\ex04\obj\Debug\netcoreapp3.1\ex04.csproj.CoreCompileInputs.cache
+E:\Programação para Jogos Digitais\atividades\UC03 - Trabalhos\code ativ 3\ex04\ex04\obj\Debug\netcoreapp3.1\ex04.dll
+E:\Programação para Jogos Digitais\atividades\UC03 - Trabalhos\code ativ 3\ex04\ex04\obj\Debug\netcoreapp3.1\ex04.pdb
+E:\Programação para Jogos Digitais\atividades\UC03 - Trabalhos\code ativ 3\ex04\ex04\obj\Debug\netcoreapp3.1\ex04.genruntimeconfig.cache
+E:\Programação para Jogos Digitais\atividades\UC03 - Trabalhos\atividade 3 - celenny-cristhyne\ex04\ex04\bin\Debug\netcoreapp3.1\ex04.exe
+E:\Programação para Jogos Digitais\atividades\UC03 - Trabalhos\atividade 3 - celenny-cristhyne\ex04\ex04\bin\Debug\netcoreapp3.1\ex04.deps.json
+E:\Programação para Jogos Digitais\atividades\UC03 - Trabalhos\atividade 3 - celenny-cristhyne\ex04\ex04\bin\Debug\netcoreapp3.1\ex04.runtimeconfig.json
+E:\Programação para Jogos Digitais\atividades\UC03 - Trabalhos\atividade 3 - celenny-cristhyne\ex04\ex04\bin\Debug\netcoreapp3.1\ex04.runtimeconfig.dev.json
+E:\Programação para Jogos Digitais\atividades\UC03 - Trabalhos\atividade 3 - celenny-cristhyne\ex04\ex04\bin\Debug\netcoreapp3.1\ex04.dll
+E:\Programação para Jogos Digitais\atividades\UC03 - Trabalhos\atividade 3 - celenny-cristhyne\ex04\ex04\bin\Debug\netcoreapp3.1\ex04.pdb
+E:\Programação para Jogos Digitais\atividades\UC03 - Trabalhos\atividade 3 - celenny-cristhyne\ex04\ex04\obj\Debug\netcoreapp3.1\ex04.csprojAssemblyReference.cache
+E:\Programação para Jogos Digitais\atividades\UC03 - Trabalhos\atividade 3 - celenny-cristhyne\ex04\ex04\obj\Debug\netcoreapp3.1\ex04.AssemblyInfoInputs.cache
+E:\Programação para Jogos Digitais\atividades\UC03 - Trabalhos\atividade 3 - celenny-cristhyne\ex04\ex04\obj\Debug\netcoreapp3.1\ex04.AssemblyInfo.cs
+E:\Programação para Jogos Digitais\atividades\UC03 - Trabalhos\atividade 3 - celenny-cristhyne\ex04\ex04\obj\Debug\netcoreapp3.1\ex04.csproj.CoreCompileInputs.cache
+E:\Programação para Jogos Digitais\atividades\UC03 - Trabalhos\atividade 3 - celenny-cristhyne\ex04\ex04\obj\Debug\netcoreapp3.1\ex04.dll
+E:\Programação para Jogos Digitais\atividades\UC03 - Trabalhos\atividade 3 - celenny-cristhyne\ex04\ex04\obj\Debug\netcoreapp3.1\ex04.pdb
+E:\Programação para Jogos Digitais\atividades\UC03 - Trabalhos\atividade 3 - celenny-cristhyne\ex04\ex04\obj\Debug\netcoreapp3.1\ex04.genruntimeconfig.cache

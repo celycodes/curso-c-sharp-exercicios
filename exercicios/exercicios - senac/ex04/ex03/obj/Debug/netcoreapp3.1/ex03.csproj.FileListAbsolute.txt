@@ -1,0 +1,13 @@
+E:\Programação para Jogos Digitais\atividades\UC03 - Trabalhos\code ativ 3\ex03\ex03\obj\Debug\netcoreapp3.1\ex03.csprojAssemblyReference.cache
+E:\Programação para Jogos Digitais\atividades\UC03 - Trabalhos\code ativ 3\ex03\ex03\obj\Debug\netcoreapp3.1\ex03.AssemblyInfoInputs.cache
+E:\Programação para Jogos Digitais\atividades\UC03 - Trabalhos\code ativ 3\ex03\ex03\obj\Debug\netcoreapp3.1\ex03.AssemblyInfo.cs
+E:\Programação para Jogos Digitais\atividades\UC03 - Trabalhos\code ativ 3\ex03\ex03\obj\Debug\netcoreapp3.1\ex03.csproj.CoreCompileInputs.cache
+E:\Programação para Jogos Digitais\atividades\UC03 - Trabalhos\code ativ 3\ex03\ex03\bin\Debug\netcoreapp3.1\ex03.exe
+E:\Programação para Jogos Digitais\atividades\UC03 - Trabalhos\code ativ 3\ex03\ex03\bin\Debug\netcoreapp3.1\ex03.deps.json
+E:\Programação para Jogos Digitais\atividades\UC03 - Trabalhos\code ativ 3\ex03\ex03\bin\Debug\netcoreapp3.1\ex03.runtimeconfig.json
+E:\Programação para Jogos Digitais\atividades\UC03 - Trabalhos\code ativ 3\ex03\ex03\bin\Debug\netcoreapp3.1\ex03.runtimeconfig.dev.json
+E:\Programação para Jogos Digitais\atividades\UC03 - Trabalhos\code ativ 3\ex03\ex03\bin\Debug\netcoreapp3.1\ex03.dll
+E:\Programação para Jogos Digitais\atividades\UC03 - Trabalhos\code ativ 3\ex03\ex03\bin\Debug\netcoreapp3.1\ex03.pdb
+E:\Programação para Jogos Digitais\atividades\UC03 - Trabalhos\code ativ 3\ex03\ex03\obj\Debug\netcoreapp3.1\ex03.dll
+E:\Programação para Jogos Digitais\atividades\UC03 - Trabalhos\code ativ 3\ex03\ex03\obj\Debug\netcoreapp3.1\ex03.pdb
+E:\Programação para Jogos Digitais\atividades\UC03 - Trabalhos\code ativ 3\ex03\ex03\obj\Debug\netcoreapp3.1\ex03.genruntimeconfig.cache

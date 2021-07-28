@@ -1,0 +1,13 @@
+E:\C#\ws - csharp\Lógica de programação C#\ex18\ex18\bin\Debug\netcoreapp3.1\ex18.exe
+E:\C#\ws - csharp\Lógica de programação C#\ex18\ex18\bin\Debug\netcoreapp3.1\ex18.deps.json
+E:\C#\ws - csharp\Lógica de programação C#\ex18\ex18\bin\Debug\netcoreapp3.1\ex18.runtimeconfig.json
+E:\C#\ws - csharp\Lógica de programação C#\ex18\ex18\bin\Debug\netcoreapp3.1\ex18.runtimeconfig.dev.json
+E:\C#\ws - csharp\Lógica de programação C#\ex18\ex18\bin\Debug\netcoreapp3.1\ex18.dll
+E:\C#\ws - csharp\Lógica de programação C#\ex18\ex18\bin\Debug\netcoreapp3.1\ex18.pdb
+E:\C#\ws - csharp\Lógica de programação C#\ex18\ex18\obj\Debug\netcoreapp3.1\ex18.csprojAssemblyReference.cache
+E:\C#\ws - csharp\Lógica de programação C#\ex18\ex18\obj\Debug\netcoreapp3.1\ex18.AssemblyInfoInputs.cache
+E:\C#\ws - csharp\Lógica de programação C#\ex18\ex18\obj\Debug\netcoreapp3.1\ex18.AssemblyInfo.cs
+E:\C#\ws - csharp\Lógica de programação C#\ex18\ex18\obj\Debug\netcoreapp3.1\ex18.csproj.CoreCompileInputs.cache
+E:\C#\ws - csharp\Lógica de programação C#\ex18\ex18\obj\Debug\netcoreapp3.1\ex18.dll
+E:\C#\ws - csharp\Lógica de programação C#\ex18\ex18\obj\Debug\netcoreapp3.1\ex18.pdb
+E:\C#\ws - csharp\Lógica de programação C#\ex18\ex18\obj\Debug\netcoreapp3.1\ex18.genruntimeconfig.cache

@@ -1,0 +1,13 @@
+E:\projetosGitHub\curso-c-sharp-exercicios\exercicios\ex09\ex09\bin\Debug\netcoreapp3.1\ex09.exe
+E:\projetosGitHub\curso-c-sharp-exercicios\exercicios\ex09\ex09\bin\Debug\netcoreapp3.1\ex09.deps.json
+E:\projetosGitHub\curso-c-sharp-exercicios\exercicios\ex09\ex09\bin\Debug\netcoreapp3.1\ex09.runtimeconfig.json
+E:\projetosGitHub\curso-c-sharp-exercicios\exercicios\ex09\ex09\bin\Debug\netcoreapp3.1\ex09.runtimeconfig.dev.json
+E:\projetosGitHub\curso-c-sharp-exercicios\exercicios\ex09\ex09\bin\Debug\netcoreapp3.1\ex09.dll
+E:\projetosGitHub\curso-c-sharp-exercicios\exercicios\ex09\ex09\bin\Debug\netcoreapp3.1\ex09.pdb
+E:\projetosGitHub\curso-c-sharp-exercicios\exercicios\ex09\ex09\obj\Debug\netcoreapp3.1\ex09.csprojAssemblyReference.cache
+E:\projetosGitHub\curso-c-sharp-exercicios\exercicios\ex09\ex09\obj\Debug\netcoreapp3.1\ex09.AssemblyInfoInputs.cache
+E:\projetosGitHub\curso-c-sharp-exercicios\exercicios\ex09\ex09\obj\Debug\netcoreapp3.1\ex09.AssemblyInfo.cs
+E:\projetosGitHub\curso-c-sharp-exercicios\exercicios\ex09\ex09\obj\Debug\netcoreapp3.1\ex09.csproj.CoreCompileInputs.cache
+E:\projetosGitHub\curso-c-sharp-exercicios\exercicios\ex09\ex09\obj\Debug\netcoreapp3.1\ex09.dll
+E:\projetosGitHub\curso-c-sharp-exercicios\exercicios\ex09\ex09\obj\Debug\netcoreapp3.1\ex09.pdb
+E:\projetosGitHub\curso-c-sharp-exercicios\exercicios\ex09\ex09\obj\Debug\netcoreapp3.1\ex09.genruntimeconfig.cache

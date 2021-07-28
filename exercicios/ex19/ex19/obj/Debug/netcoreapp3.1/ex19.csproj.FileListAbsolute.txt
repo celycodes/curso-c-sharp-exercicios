@@ -1,0 +1,13 @@
+E:\C#\ws - csharp\Lógica de programação C#\ex19\ex19\bin\Debug\netcoreapp3.1\ex19.exe
+E:\C#\ws - csharp\Lógica de programação C#\ex19\ex19\bin\Debug\netcoreapp3.1\ex19.deps.json
+E:\C#\ws - csharp\Lógica de programação C#\ex19\ex19\bin\Debug\netcoreapp3.1\ex19.runtimeconfig.json
+E:\C#\ws - csharp\Lógica de programação C#\ex19\ex19\bin\Debug\netcoreapp3.1\ex19.runtimeconfig.dev.json
+E:\C#\ws - csharp\Lógica de programação C#\ex19\ex19\bin\Debug\netcoreapp3.1\ex19.dll
+E:\C#\ws - csharp\Lógica de programação C#\ex19\ex19\bin\Debug\netcoreapp3.1\ex19.pdb
+E:\C#\ws - csharp\Lógica de programação C#\ex19\ex19\obj\Debug\netcoreapp3.1\ex19.csprojAssemblyReference.cache
+E:\C#\ws - csharp\Lógica de programação C#\ex19\ex19\obj\Debug\netcoreapp3.1\ex19.AssemblyInfoInputs.cache
+E:\C#\ws - csharp\Lógica de programação C#\ex19\ex19\obj\Debug\netcoreapp3.1\ex19.AssemblyInfo.cs
+E:\C#\ws - csharp\Lógica de programação C#\ex19\ex19\obj\Debug\netcoreapp3.1\ex19.csproj.CoreCompileInputs.cache
+E:\C#\ws - csharp\Lógica de programação C#\ex19\ex19\obj\Debug\netcoreapp3.1\ex19.dll
+E:\C#\ws - csharp\Lógica de programação C#\ex19\ex19\obj\Debug\netcoreapp3.1\ex19.pdb
+E:\C#\ws - csharp\Lógica de programação C#\ex19\ex19\obj\Debug\netcoreapp3.1\ex19.genruntimeconfig.cache

@@ -1,0 +1,8 @@
+{
+  "runtimeOptions": {
+    "additionalProbingPaths": [
+      "C:\\Users\\Celenny\\.dotnet\\store\\|arch|\\|tfm|",
+      "C:\\Users\\Celenny\\.nuget\\packages"
+    ]
+  }
+}

@@ -1,0 +1,13 @@
+E:\C#\ws - csharp\Lógica de programação C#\ex12\ex12\bin\Debug\netcoreapp3.1\ex12.exe
+E:\C#\ws - csharp\Lógica de programação C#\ex12\ex12\bin\Debug\netcoreapp3.1\ex12.deps.json
+E:\C#\ws - csharp\Lógica de programação C#\ex12\ex12\bin\Debug\netcoreapp3.1\ex12.runtimeconfig.json
+E:\C#\ws - csharp\Lógica de programação C#\ex12\ex12\bin\Debug\netcoreapp3.1\ex12.runtimeconfig.dev.json
+E:\C#\ws - csharp\Lógica de programação C#\ex12\ex12\bin\Debug\netcoreapp3.1\ex12.dll
+E:\C#\ws - csharp\Lógica de programação C#\ex12\ex12\bin\Debug\netcoreapp3.1\ex12.pdb
+E:\C#\ws - csharp\Lógica de programação C#\ex12\ex12\obj\Debug\netcoreapp3.1\ex12.csprojAssemblyReference.cache
+E:\C#\ws - csharp\Lógica de programação C#\ex12\ex12\obj\Debug\netcoreapp3.1\ex12.AssemblyInfoInputs.cache
+E:\C#\ws - csharp\Lógica de programação C#\ex12\ex12\obj\Debug\netcoreapp3.1\ex12.AssemblyInfo.cs
+E:\C#\ws - csharp\Lógica de programação C#\ex12\ex12\obj\Debug\netcoreapp3.1\ex12.csproj.CoreCompileInputs.cache
+E:\C#\ws - csharp\Lógica de programação C#\ex12\ex12\obj\Debug\netcoreapp3.1\ex12.dll
+E:\C#\ws - csharp\Lógica de programação C#\ex12\ex12\obj\Debug\netcoreapp3.1\ex12.pdb
+E:\C#\ws - csharp\Lógica de programação C#\ex12\ex12\obj\Debug\netcoreapp3.1\ex12.genruntimeconfig.cache

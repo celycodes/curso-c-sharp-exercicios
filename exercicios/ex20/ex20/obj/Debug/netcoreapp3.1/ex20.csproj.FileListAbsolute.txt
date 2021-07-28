@@ -1,0 +1,13 @@
+E:\C#\ws - csharp\Lógica de programação C#\ex20\ex20\bin\Debug\netcoreapp3.1\ex20.exe
+E:\C#\ws - csharp\Lógica de programação C#\ex20\ex20\bin\Debug\netcoreapp3.1\ex20.deps.json
+E:\C#\ws - csharp\Lógica de programação C#\ex20\ex20\bin\Debug\netcoreapp3.1\ex20.runtimeconfig.json
+E:\C#\ws - csharp\Lógica de programação C#\ex20\ex20\bin\Debug\netcoreapp3.1\ex20.runtimeconfig.dev.json
+E:\C#\ws - csharp\Lógica de programação C#\ex20\ex20\bin\Debug\netcoreapp3.1\ex20.dll
+E:\C#\ws - csharp\Lógica de programação C#\ex20\ex20\bin\Debug\netcoreapp3.1\ex20.pdb
+E:\C#\ws - csharp\Lógica de programação C#\ex20\ex20\obj\Debug\netcoreapp3.1\ex20.csprojAssemblyReference.cache
+E:\C#\ws - csharp\Lógica de programação C#\ex20\ex20\obj\Debug\netcoreapp3.1\ex20.AssemblyInfoInputs.cache
+E:\C#\ws - csharp\Lógica de programação C#\ex20\ex20\obj\Debug\netcoreapp3.1\ex20.AssemblyInfo.cs
+E:\C#\ws - csharp\Lógica de programação C#\ex20\ex20\obj\Debug\netcoreapp3.1\ex20.csproj.CoreCompileInputs.cache
+E:\C#\ws - csharp\Lógica de programação C#\ex20\ex20\obj\Debug\netcoreapp3.1\ex20.dll
+E:\C#\ws - csharp\Lógica de programação C#\ex20\ex20\obj\Debug\netcoreapp3.1\ex20.pdb
+E:\C#\ws - csharp\Lógica de programação C#\ex20\ex20\obj\Debug\netcoreapp3.1\ex20.genruntimeconfig.cache

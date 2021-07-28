@@ -1,0 +1,13 @@
+E:\C#\ws - csharp\ex08\ex08\bin\Debug\netcoreapp3.1\ex08.exe
+E:\C#\ws - csharp\ex08\ex08\bin\Debug\netcoreapp3.1\ex08.deps.json
+E:\C#\ws - csharp\ex08\ex08\bin\Debug\netcoreapp3.1\ex08.runtimeconfig.json
+E:\C#\ws - csharp\ex08\ex08\bin\Debug\netcoreapp3.1\ex08.runtimeconfig.dev.json
+E:\C#\ws - csharp\ex08\ex08\bin\Debug\netcoreapp3.1\ex08.dll
+E:\C#\ws - csharp\ex08\ex08\bin\Debug\netcoreapp3.1\ex08.pdb
+E:\C#\ws - csharp\ex08\ex08\obj\Debug\netcoreapp3.1\ex08.csprojAssemblyReference.cache
+E:\C#\ws - csharp\ex08\ex08\obj\Debug\netcoreapp3.1\ex08.AssemblyInfoInputs.cache
+E:\C#\ws - csharp\ex08\ex08\obj\Debug\netcoreapp3.1\ex08.AssemblyInfo.cs
+E:\C#\ws - csharp\ex08\ex08\obj\Debug\netcoreapp3.1\ex08.csproj.CoreCompileInputs.cache
+E:\C#\ws - csharp\ex08\ex08\obj\Debug\netcoreapp3.1\ex08.dll
+E:\C#\ws - csharp\ex08\ex08\obj\Debug\netcoreapp3.1\ex08.pdb
+E:\C#\ws - csharp\ex08\ex08\obj\Debug\netcoreapp3.1\ex08.genruntimeconfig.cache

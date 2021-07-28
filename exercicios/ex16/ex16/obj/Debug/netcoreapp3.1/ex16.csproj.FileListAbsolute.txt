@@ -1,0 +1,13 @@
+E:\C#\ws - csharp\Lógica de programação C#\ex16\ex16\bin\Debug\netcoreapp3.1\ex16.exe
+E:\C#\ws - csharp\Lógica de programação C#\ex16\ex16\bin\Debug\netcoreapp3.1\ex16.deps.json
+E:\C#\ws - csharp\Lógica de programação C#\ex16\ex16\bin\Debug\netcoreapp3.1\ex16.runtimeconfig.json
+E:\C#\ws - csharp\Lógica de programação C#\ex16\ex16\bin\Debug\netcoreapp3.1\ex16.runtimeconfig.dev.json
+E:\C#\ws - csharp\Lógica de programação C#\ex16\ex16\bin\Debug\netcoreapp3.1\ex16.dll
+E:\C#\ws - csharp\Lógica de programação C#\ex16\ex16\bin\Debug\netcoreapp3.1\ex16.pdb
+E:\C#\ws - csharp\Lógica de programação C#\ex16\ex16\obj\Debug\netcoreapp3.1\ex16.AssemblyInfoInputs.cache
+E:\C#\ws - csharp\Lógica de programação C#\ex16\ex16\obj\Debug\netcoreapp3.1\ex16.AssemblyInfo.cs
+E:\C#\ws - csharp\Lógica de programação C#\ex16\ex16\obj\Debug\netcoreapp3.1\ex16.csproj.CoreCompileInputs.cache
+E:\C#\ws - csharp\Lógica de programação C#\ex16\ex16\obj\Debug\netcoreapp3.1\ex16.dll
+E:\C#\ws - csharp\Lógica de programação C#\ex16\ex16\obj\Debug\netcoreapp3.1\ex16.pdb
+E:\C#\ws - csharp\Lógica de programação C#\ex16\ex16\obj\Debug\netcoreapp3.1\ex16.genruntimeconfig.cache
+E:\C#\ws - csharp\Lógica de programação C#\ex16\ex16\obj\Debug\netcoreapp3.1\ex16.csprojAssemblyReference.cache

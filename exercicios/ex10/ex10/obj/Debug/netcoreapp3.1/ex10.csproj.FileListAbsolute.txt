@@ -1,0 +1,13 @@
+E:\C#\ws - csharp\ex10\ex10\bin\Debug\netcoreapp3.1\ex10.exe
+E:\C#\ws - csharp\ex10\ex10\bin\Debug\netcoreapp3.1\ex10.deps.json
+E:\C#\ws - csharp\ex10\ex10\bin\Debug\netcoreapp3.1\ex10.runtimeconfig.json
+E:\C#\ws - csharp\ex10\ex10\bin\Debug\netcoreapp3.1\ex10.runtimeconfig.dev.json
+E:\C#\ws - csharp\ex10\ex10\bin\Debug\netcoreapp3.1\ex10.dll
+E:\C#\ws - csharp\ex10\ex10\bin\Debug\netcoreapp3.1\ex10.pdb
+E:\C#\ws - csharp\ex10\ex10\obj\Debug\netcoreapp3.1\ex10.csprojAssemblyReference.cache
+E:\C#\ws - csharp\ex10\ex10\obj\Debug\netcoreapp3.1\ex10.AssemblyInfoInputs.cache
+E:\C#\ws - csharp\ex10\ex10\obj\Debug\netcoreapp3.1\ex10.AssemblyInfo.cs
+E:\C#\ws - csharp\ex10\ex10\obj\Debug\netcoreapp3.1\ex10.csproj.CoreCompileInputs.cache
+E:\C#\ws - csharp\ex10\ex10\obj\Debug\netcoreapp3.1\ex10.dll
+E:\C#\ws - csharp\ex10\ex10\obj\Debug\netcoreapp3.1\ex10.pdb
+E:\C#\ws - csharp\ex10\ex10\obj\Debug\netcoreapp3.1\ex10.genruntimeconfig.cache
