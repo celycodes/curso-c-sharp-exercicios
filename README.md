@@ -11,3 +11,13 @@
 - [Programação C# - CFBCursos](https://www.youtube.com/playlist?list=PLx4x_zx8csUglgKTmgfVFEhWWBQCasNGi)
 - [Curso C# - PodProgramar](https://www.youtube.com/playlist?list=PLJxtIv7cQNL3wPa_8Y7xvln0FEa0HZY3L)
 - [Linguagem C# - Danilo Aparecido](https://www.youtube.com/playlist?list=PLEdPHGYbHhlcxWx-_LrVVYZ2RRdqltums)
+
+#### Caso queira um  realizar um projeto comigo (ou até mesmo bater papo), não hesite em me enviar uma mensagem, acesse o link das minhas redes sociais abaixo: ⤵️
+
+- [Instagram](https://www.instagram.com/celycodes)
+
+- [Twitter](https://twitter.com/ceIenny)
+
+- [GitHub](https://github.com/celenny)
+
+- [LinkedIn](https://www.linkedin.com/in/celenny)
